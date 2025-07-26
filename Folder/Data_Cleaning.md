@@ -30,6 +30,6 @@ where [Arrival Date] is null
 ```
 ---No nulls for Arrival date
 
-Here is the image of the dashboard.
+Here is the image of the dashboard.  
 ![Dashboard](https://github.com/HopeVictor/SQL-Projects/blob/main/Folder/OIP.webp)
 
