@@ -2,13 +2,13 @@
 ----
 
 
----showing all columns
+* ---showing all columns
 ```
 Select *
 From dbo.Hotel
 ```
 
---- checking for nulls
+* --- checking for nulls
 ```
 select *
 from dbo.hotel
