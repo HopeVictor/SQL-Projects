@@ -24,8 +24,13 @@ where Hotel is null
 ---No nulls for column Hotel
 
 ```
-select *
+![#f03c15]select`#f03c15` *
 from dbo.hotel
 where [Arrival Date] is null
 ```
 ---No nulls for Arrival date
+
+
+
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
