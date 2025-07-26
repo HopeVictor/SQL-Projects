@@ -30,7 +30,4 @@ where [Arrival Date] is null
 ```
 ---No nulls for Arrival date
 
-<code style="color : gold">"SELECT"</code>
 
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
